@@ -25,6 +25,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8951/proprietary/framework/org.simalliance.openmobileapi.jar:system/framework/org.simalliance.openmobileapi.jar \
     vendor/huawei/u8951/proprietary/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
     vendor/huawei/u8951/proprietary/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
+    vendor/huawei/u8951/proprietary/lib/libassd.so:system/lib/libassd.so \
     vendor/huawei/u8951/proprietary/MTK_FIRMWARE/mtk_update:system/MTK_FIRMWARE/mtk_update \
     vendor/huawei/u8951/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
     vendor/huawei/u8951/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
