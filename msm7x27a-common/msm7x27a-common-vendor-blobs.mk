@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/huawei/msm7x27a-common/proprietary/bin/v4l2-qcamera-app:system/bin/v4l2-qcamera-app \
     vendor/huawei/msm7x27a-common/proprietary/bin/write_NV_114:system/bin/write_NV_114 \
-    vendor/huawei/msm7x27a-common/proprietary/lib/hw/camera.msm7x27a.so:system/lib/hw/camera.msm7x27a.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/hw/sensors.default.so:system/lib/hw/sensors.default.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/liballjoyn.so:system/lib/liballjoyn.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libaudcal.so:obj/lib/libaudcal.so \
@@ -130,7 +129,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmcamera_frameproc.so:system/lib/libmmcamera_frameproc.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmcamera_hdr_lib.so:system/lib/libmmcamera_hdr_lib.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmcamera_image_stab.so:system/lib/libmmcamera_image_stab.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libmmcamera_interface2.so:system/lib/libmmcamera_interface2.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmcamera_statsproc31.so:system/lib/libmmcamera_statsproc31.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmcamera_wavelet_lib.so:system/lib/libmmcamera_wavelet_lib.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libmmipl.so:system/lib/libmmipl.so \
