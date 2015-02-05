@@ -23,6 +23,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/bin/oem_rpc_svc:system/bin/oem_rpc_svc \
     vendor/huawei/u8833/proprietary/bin/qmiproxy:system/bin/qmiproxy \
     vendor/huawei/u8833/proprietary/bin/qmuxd:system/bin/qmuxd \
+    vendor/huawei/u8833/proprietary/bin/rild:system/bin/rild \
     vendor/huawei/u8833/proprietary/bin/thermald:system/bin/thermald \
     vendor/huawei/u8833/proprietary/bin/wlan_detect:system/bin/wlan_detect \
     vendor/huawei/u8833/proprietary/lib/hw/lights.msm7x27a.so:system/lib/hw/lights.msm7x27a.so \
@@ -58,6 +59,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8833/proprietary/lib/libril-qc-1.so:system/lib/libril-qc-1.so \
     vendor/huawei/u8833/proprietary/lib/libril-qc-qmi-1.so:system/lib/libril-qc-qmi-1.so \
     vendor/huawei/u8833/proprietary/lib/libril-qcril-hook-oem.so:system/lib/libril-qcril-hook-oem.so \
+    vendor/huawei/u8833/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/huawei/u8833/proprietary/lib/libuim.so:system/lib/libuim.so \
     vendor/huawei/u8833/proprietary/lib/libwms.so:system/lib/libwms.so \
     vendor/huawei/u8833/proprietary/lib/libwmsts.so:system/lib/libwmsts.so \
