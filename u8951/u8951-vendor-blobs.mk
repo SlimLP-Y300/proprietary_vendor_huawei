@@ -14,21 +14,21 @@
 # limitations under the License.
 #
 
-PRODUCT_COPY_FILES += \
-    vendor/huawei/u8951/proprietary/app/SmartcardService.apk:system/app/SmartcardService.apk \
-    vendor/huawei/u8951/proprietary/bin/nfc_check:system/bin/nfc_check \
-    vendor/huawei/u8951/proprietary/etc/EEDATA.cfg:system/etc/EEDATA.cfg \
-    vendor/huawei/u8951/proprietary/etc/libnfc-brcm.conf:system/etc/libnfc-brcm.conf \
-    vendor/huawei/u8951/proprietary/etc/libnfc-nxp.conf:system/etc/libnfc-nxp.conf \
-    vendor/huawei/u8951/proprietary/etc/reader.conf:system/etc/reader.conf \
-    vendor/huawei/u8951/proprietary/etc/permissions/org.simalliance.openmobileapi.xml:system/etc/permissions/org.simalliance.openmobileapi.xml \
-    vendor/huawei/u8951/proprietary/framework/org.simalliance.openmobileapi.jar:system/framework/org.simalliance.openmobileapi.jar \
-    vendor/huawei/u8951/proprietary/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
-    vendor/huawei/u8951/proprietary/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
-    vendor/huawei/u8951/proprietary/lib/libassd.so:system/lib/libassd.so \
-    vendor/huawei/u8951/proprietary/MTK_FIRMWARE/mtk_update:system/MTK_FIRMWARE/mtk_update \
-    vendor/huawei/u8951/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
-    vendor/huawei/u8951/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
-    vendor/huawei/u8951/proprietary/etc/firmware/BCM4329_check.hcd:system/etc/firmware/BCM4329_check.hcd \
-    vendor/huawei/u8951/proprietary/etc/firmware/BCM4330_check.hcd:system/etc/firmware/BCM4330_check.hcd \
-    vendor/huawei/u8951/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so
+#PRODUCT_COPY_FILES += \
+#    vendor/huawei/u8951/proprietary/app/SmartcardService.apk:system/app/SmartcardService.apk \
+#    vendor/huawei/u8951/proprietary/bin/nfc_check:system/bin/nfc_check \
+#    vendor/huawei/u8951/proprietary/etc/EEDATA.cfg:system/etc/EEDATA.cfg \
+#    vendor/huawei/u8951/proprietary/etc/libnfc-brcm.conf:system/etc/libnfc-brcm.conf \
+#    vendor/huawei/u8951/proprietary/etc/libnfc-nxp.conf:system/etc/libnfc-nxp.conf \
+#    vendor/huawei/u8951/proprietary/etc/reader.conf:system/etc/reader.conf \
+#    vendor/huawei/u8951/proprietary/etc/permissions/org.simalliance.openmobileapi.xml:system/etc/permissions/org.simalliance.openmobileapi.xml \
+#    vendor/huawei/u8951/proprietary/framework/org.simalliance.openmobileapi.jar:system/framework/org.simalliance.openmobileapi.jar \
+#    vendor/huawei/u8951/proprietary/lib/hw/nfc.huawei.so:system/lib/hw/nfc.huawei.so \
+#    vendor/huawei/u8951/proprietary/lib/libifdsmartcardapi.so:system/lib/libifdsmartcardapi.so \
+#    vendor/huawei/u8951/proprietary/lib/libassd.so:system/lib/libassd.so \
+#    vendor/huawei/u8951/proprietary/MTK_FIRMWARE/mtk_update:system/MTK_FIRMWARE/mtk_update \
+#    vendor/huawei/u8951/proprietary/vendor/lib/libwvdrm_L3.so:system/vendor/lib/libwvdrm_L3.so \
+#    vendor/huawei/u8951/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
+#    vendor/huawei/u8951/proprietary/etc/firmware/BCM4329_check.hcd:system/etc/firmware/BCM4329_check.hcd \
+#    vendor/huawei/u8951/proprietary/etc/firmware/BCM4330_check.hcd:system/etc/firmware/BCM4330_check.hcd \
+#    vendor/huawei/u8951/proprietary/lib/libpn544_fw.so:system/lib/libpn544_fw.so
