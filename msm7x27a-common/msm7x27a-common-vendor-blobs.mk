@@ -144,6 +144,16 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/liboeminfodata.so:system/lib/liboeminfodata.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/liboem_rapi.so:system/lib/liboem_rapi.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libqueue.so:system/lib/libqueue.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libvoem_if.so:system/lib/libvoem_if.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libwidevine.so:system/lib/libwidevine.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libxml.so:system/lib/libxml.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libzy_imgdenoise.so:system/lib/libzy_imgdenoise.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/qnet-plugin.so:system/lib/qnet-plugin.so
+
+#OMX Libs
+#PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libOmxAacDec.so:system/lib/libOmxAacDec.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libOmxAacEnc.so:system/lib/libOmxAacEnc.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libOmxAc3HwDec.so:system/lib/libOmxAc3HwDec.so \
@@ -169,13 +179,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libOmxVp8Dec.so:system/lib/libOmxVp8Dec.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libOmxWmaDec.so:system/lib/libOmxWmaDec.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libOmxWmvDec.so:system/lib/libOmxWmvDec.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libqc-opt.so:system/lib/libqc-opt.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libqueue.so:system/lib/libqueue.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libvoem_if.so:system/lib/libvoem_if.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libwidevine.so:system/lib/libwidevine.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libxml.so:system/lib/libxml.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/libzy_imgdenoise.so:system/lib/libzy_imgdenoise.so \
-    vendor/huawei/msm7x27a-common/proprietary/lib/qnet-plugin.so:system/lib/qnet-plugin.so
 
 #Adreno Firmware & Libs
 PRODUCT_COPY_FILES += \
