@@ -15,7 +15,7 @@
 #
 
 #PRODUCT_COPY_FILES += \
-#    vendor/huawei/u8951/proprietary/app/SmartcardService.apk:system/app/SmartcardService.apk \
+#    vendor/huawei/u8951/proprietary/app/SmartcardService.apk:system/app/SmartcardService/SmartcardService.apk \
 #    vendor/huawei/u8951/proprietary/bin/nfc_check:system/bin/nfc_check \
 #    vendor/huawei/u8951/proprietary/etc/EEDATA.cfg:system/etc/EEDATA.cfg \
 #    vendor/huawei/u8951/proprietary/etc/libnfc-brcm.conf:system/etc/libnfc-brcm.conf \
