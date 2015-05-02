@@ -113,6 +113,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgestureservice.so:system/lib/libgestureservice.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libgps.utils.so:system/lib/libgps.utils.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libhwnv.so:system/lib/libhwnv.so \
+    vendor/huawei/msm7x27a-common/proprietary/lib/libhwrpc.so:obj/lib/libhwrpc.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libhwrpc.so:system/lib/libhwrpc.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libI420colorconvert.so:system/lib/libI420colorconvert.so \
     vendor/huawei/msm7x27a-common/proprietary/lib/libimage-jpeg-enc-omx-comp.so:system/lib/libimage-jpeg-enc-omx-comp.so \
